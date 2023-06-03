@@ -1,2 +1,2 @@
 # LeetCode-Cpp
-My solutions to LeetCode challenges in C++
+My solutions to [LeetCode](https://leetcode.com/) Challenges in C++
